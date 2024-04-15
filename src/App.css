@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@100..900&family=Manrope:wght@200..800&display=swap')
+;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+li{
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+}
+
+p{
+  font-family: "Manrope", sans-serif;
+}
+
+.button{
+  font-family: "Manrope", sans-serif;
+  padding: .6rem .9rem;
+  font-size: 11px;
+  font-weight: 600;
+  border: 1px solid #D3E97A;
+  background-color: #D3E97A;
+  border-radius: 2rem;
+  color: black;
+}
+
+.button .image {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.button:hover .image {
+  opacity: 1;
+}
