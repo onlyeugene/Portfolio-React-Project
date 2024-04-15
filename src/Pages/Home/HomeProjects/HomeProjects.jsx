@@ -7,6 +7,7 @@ import image3 from '../.././../assets/image 10.png'
 import image4 from '../.././../assets/image 24.png'
 import arrow from '../.././../assets/arrow.png'
 import github from '../.././../assets/github.png'
+import exchange from '../../../assets/exchange.png'
 
 const HomeProjects = () => {
   return (
@@ -34,14 +35,13 @@ const HomeProjects = () => {
       {/* PROMOTIONAL LANDING PAGE  */}
 
         <div className='md:flex justify-center items-center px-[1rem] md:pt-0 pt-[2rem] md:px-[5rem] grid gap-[2rem] md:gap-[5rem]'>
-          <div className='border md:px-[2rem] px-[1rem] md:py-[7rem] py-[1rem] rounded-md relative border-[#1a1a1a] bg-[#1a1a1a]'>
+          <div className='border md:px-[2rem] px-[1rem] md:py-[7rem] py-[3rem] rounded-md relative border-[#1a1a1a] bg-[#1a1a1a]'>
             <button className='font-sans border absolute top-2 left-3 border-black bg-black rounded-2xl px-[.5rem] py-[.3rem] text-[14px]'>Conceptual work</button>
-            <img src={image1} alt="" className='w-[80rem] md:block hidden'/>
-            <img src={image4} alt="" className='w-[80rem] md:hidden block'/>
+            <img src={exchange} alt="" className='w-[110rem] rounded-md'/>
           </div>
           <div>
-            <h1 className='md:text-[32px] text-[24px] font-sans'>Promotional landing page for our favorite show</h1>
-            <p className='md:text-[18px] text-[#c7c7c7] '>Teamed up with a designer to breathe life into a promotional webpage for our beloved show, Adventure Time. Delivered a fully responsive design with dynamic content capabilities, seamlessly integrating a newsletter feature to keep fans updated with the latest adventures.</p>
+            <h1 className='md:text-[32px] text-[24px] font-sans'>Exchange Website for Seamless Trading</h1>
+            <p className='md:text-[18px] text-[#c7c7c7] '>One Exchange is a comprehensive online exchange platform designed to facilitate the buying, selling, and trading of various digital assets, including cryptocurrencies, stocks, and commodities. With an intuitive user interface and robust backend infrastructure, One Exchange offers a seamless trading experience for both novice and experienced traders alike..</p>
             <p className='font-medium border-b-[1px] py-3 border-[#606060]'>PROJECT INFO</p>
             <p className='font-medium border-b-[1px] py-3 border-[#606060] flex justify-between'>Year <span className='font-sans text-[#d0d0d0] font-extralight'>2023</span></p>
             <p className='font-medium border-b-[1px] py-3 border-[#606060] flex justify-between'>Role<span className='font-sans text-[#d0d0d0] font-extralight'>Front-end Developer</span></p>
