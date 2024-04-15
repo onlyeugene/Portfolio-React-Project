@@ -8,13 +8,16 @@ import image4 from '../.././../assets/image 24.png'
 import arrow from '../.././../assets/arrow.png'
 import github from '../.././../assets/github.png'
 import exchange from '../../../assets/exchange.png'
+import { Link } from 'react-router-dom'
 
 const HomeProjects = () => {
   return (
     <div className='bg-black text-white border-t-[1px] border-[#484848] py-[3rem] w-full flex flex-col justify-center'>
       <div className=''>
         <div className='md:px-[5rem] px-[1rem] md:py-[2rem]'>
-            <h1 className='md:text-[76px] text-[43px]'>FEATURED PROJECTS</h1>
+            <Link to={'/Project'}>
+              <h1 className='md:text-[76px] text-[43px]'>FEATURED PROJECTS</h1>
+            </Link>
             <p className='md:text-[18px] text-[#c7c7c7]'>Here are some of the selected projects that showcase my passion for <br />front-end development.</p>
         </div>
       </div>

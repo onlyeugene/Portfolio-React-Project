@@ -11,7 +11,9 @@ const Navbar = () => {
       </div>
       <nav>
         <ul className='md:flex gap-[2rem] font-extralight hidden'>
-            <li>Work</li>
+            <Link to={'/Project'}>
+              <li>Work</li>
+            </Link>
             <Link to={'/about'}>
               <li>About</li>
             </Link>
