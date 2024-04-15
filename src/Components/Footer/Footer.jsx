@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <div className='bg-black text-white border-t-[1px] w-full border-[#484848] px-[1rem]  py-[2rem] md:flex gap-[10rem] justify-center md:px-0'>
       <div>
-        <h1 className='md:text-[78px] text-[34px] pr-[6rem]'>LET'S CONNECT</h1>
+        <h1 className='md:text-[78px] text-[34px] pr-[18rem]'>LET'S CONNECT</h1>
         <p className='md:text-[18px] font-extralight text-[#c7c7c7] mb-1'>Say hello at <span className='text-white border-b-[1px] font-sans border-[#d3e97a]'>robertgarcia@gmail.com</span></p>
         <p className='md:text-[18px] font-extralight text-[#c7c7c7]'>For more info, here's my <span className='text-white border-b-[1px] font-sans border-[#d3e97a]'>resume</span></p>
         <div className='flex items-center gap-[1rem] pt-5 md:pb-0 pb-[1rem]'>
