@@ -43,7 +43,6 @@ const HomeProjects = () => {
             <img src={exchange} alt="" className='w-[110rem] rounded-md'/>
           </div>
           <Link to={'/Project'}>
-            <p>Click To Know More....</p>
           </Link>
           <div>
             <h1 className='md:text-[32px] text-[24px] font-sans'>Exchange Website for Seamless Trading</h1>
@@ -65,6 +64,7 @@ const HomeProjects = () => {
                 </div>
               </div>
             </div>
+            <p>Click To Know More....</p>
           </div>
         </div>
 
