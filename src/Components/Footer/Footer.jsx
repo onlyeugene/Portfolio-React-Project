@@ -17,7 +17,7 @@ const Footer = () => {
             <img src={x} alt="" className='w-[1.2rem]'/>
             <img src={insta} alt="" className='w-[1.2rem]'/>
         </div>
-        <p className='text-[#c7c7c7] xl:mt-[15rem] lg:mt-[10rem] xl:block lg:block hidden'>&copy; 2023 onlyeugene</p>
+        <p className='text-[#c7c7c7] xl:mt-[15rem] lg:mt-[17rem] xl:block lg:block hidden'>&copy; 2023 onlyeugene</p>
       </div>
 
       <div className='pr-[1rem]'>

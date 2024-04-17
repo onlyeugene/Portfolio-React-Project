@@ -42,6 +42,9 @@ const HomeProjects = () => {
             <button className='font-sans border absolute top-2 left-3 border-black bg-black rounded-2xl px-[.5rem] py-[.3rem] text-[14px]'>Conceptual work</button>
             <img src={exchange} alt="" className='w-[110rem] rounded-md'/>
           </div>
+          <Link to={'/Project'}>
+            <p>Click To Know More....</p>
+          </Link>
           <div>
             <h1 className='md:text-[32px] text-[24px] font-sans'>Exchange Website for Seamless Trading</h1>
             <p className='md:text-[18px] text-[#c7c7c7] '>One Exchange is a comprehensive online exchange platform designed to facilitate the buying, selling, and trading of various digital assets, including cryptocurrencies, stocks, and commodities. With an intuitive user interface and robust backend infrastructure, One Exchange offers a seamless trading experience for both novice and experienced traders alike..</p>
