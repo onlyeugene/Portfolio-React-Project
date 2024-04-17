@@ -13,7 +13,7 @@ const HomeHero = () => {
   return (
     <div className='md:flex grid  bg-black text-white justify-center md:px-[5rem] py-[2rem] px-[1rem] items-center gap-[3rem]'>
         <div className=''>
-            <h1 className='md:text-[90px] text-[57px] leading-[3.5rem] md:leading-[6rem] mb-3'>Hi, i am <br /> Robert Garcia.</h1>
+            <h1 className='md:text-[90px] text-[57px] leading-[3.5rem] md:leading-[6rem] mb-3'>Hi, i am <br /> EUGENE OKOGUN.</h1>
             <p className='mb-5 font-extralight text-[#c7c7c7] text-[16px] md:text-[18px]'>A Sydney based front-end developer passionate about building accessible and user friendly websites</p>
             <div className='flex items-center gap-[1rem]'>
                 <a href="#contact">
