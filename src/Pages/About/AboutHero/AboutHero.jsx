@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import image from '../../../assets/image1.png'
+import image from '../../../assets/image.png'
 import linkedin from '../../../assets/linked.png'
 import github from '../../../assets/github.png'
 import download from '../../../assets/download.png'
@@ -39,7 +39,7 @@ const AboutHero = () => {
                 </div>
             </div>
             <div className='w-full px-[2rem] border flex  justify-center items-center bg-[#C7C7C7] border-[#C7C7C7] rounded-lg'>
-                <img src={image} alt="" className=''/>
+                <img src={image} alt="" className='w-[30rem]'/>
             </div>
             <div className='md:flex py-[2rem] w-full '>
                 <h1 className='md:text-[76px] text-[43px] md:w-[80rem]'>MY CAPABILITIES</h1>

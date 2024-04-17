@@ -69,7 +69,7 @@ const HomeProjects = () => {
 
         {/* BLOG SITE FOR WORLD NEWS  */}
 
-        <div className='md:flex justify-center items-center px-[1rem] md:pt-0 pt-[2rem] md:px-[5rem] grid gap-[2rem] md:gap-[5rem]'>
+        {/* <div className='md:flex justify-center items-center px-[1rem] md:pt-0 pt-[2rem] md:px-[5rem] grid gap-[2rem] md:gap-[5rem]'>
           <div className='border md:px-[2rem] px-[1rem] md:py-[7rem] py-[1rem] rounded-md relative border-[#1a1a1a] bg-[#1a1a1a]'>
             
             <img src={image3} alt="" className='w-[64rem]'/>
@@ -90,13 +90,13 @@ const HomeProjects = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
 
 
         {/* E-COMMERCE PRODUCT PAGE  */}
 
-        <div className='md:flex justify-center items-center px-[1rem] md:pt-0 pt-[2rem] md:px-[5rem] grid gap-[2rem] md:gap-[5rem]'>
+        {/* <div className='md:flex justify-center items-center px-[1rem] md:pt-0 pt-[2rem] md:px-[5rem] grid gap-[2rem] md:gap-[5rem]'>
           <div className='border px-[2rem] md:py-[7rem] py-[4rem]  rounded-md relative border-[#1a1a1a] bg-[#1a1a1a]'>
             <button className='font-sans border absolute top-2 left-3 border-black bg-black rounded-2xl px-[.5rem] py-[.3rem] text-[14px]'>Challenge</button>
             <img src={image2} alt="" className='w-[49rem]'/>
@@ -122,7 +122,7 @@ const HomeProjects = () => {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
 
 
       </div>

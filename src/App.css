@@ -36,3 +36,7 @@ p{
 .button:hover .image {
   opacity: 1;
 }
+
+html{
+  scroll-behavior: smooth;
+}
