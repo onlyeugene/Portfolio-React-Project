@@ -51,8 +51,8 @@ const HomeProjects = () => {
             <p className='font-medium border-b-[1px] py-3 border-[#606060] flex justify-between'>Year <span className='font-sans text-[#d0d0d0] font-extralight'>2023</span></p>
             <p className='font-medium border-b-[1px] py-3 border-[#606060] flex justify-between'>Role<span className='font-sans text-[#d0d0d0] font-extralight'>Front-end Developer</span></p>
             <div className='flex gap-4'>
-              <div className='flex items-center gap-2 border-b-[1px] my-[3rem] py-1 md:w-[6.5rem] w-[5.8rem] border-[#d3e97a]'>
-                <p className='text-[#D3E97A] text-[14px] md:text-[16px]'>LIVE DEMO</p>
+              <div className='flex items-center gap-2 border-b-[1px] my-[3rem] py-1 md:w-[7rem] w-[5.8rem] border-[#d3e97a]'>
+               <a href="https://react-website-br5r.vercel.app/" className='font-sans text-[#D3E97A] text-[14px] md:text-[16px]'>LIVE DEMO</a>
                 <div>
                   <img src={arrow} alt="" />
                 </div>

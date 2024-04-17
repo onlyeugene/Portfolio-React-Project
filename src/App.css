@@ -16,7 +16,9 @@ li{
 p{
   font-family: "Manrope", sans-serif;
 }
-
+a{
+  font-family: "Manrope", sans-serif;
+}
 .button{
   font-family: "Manrope", sans-serif;
   padding: .6rem .9rem;
