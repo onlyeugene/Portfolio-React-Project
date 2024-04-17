@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className='bg-black text-white w-full md:px-[3rem] flex items-center justify-between md:p-[2rem] p-[1rem]'>
       <div>
         <Link to={'/'}>
-          <h1 className='md:text-[32px] text-[28px] text-[#c7c7c7]'>ROBERT GARCIA</h1>
+          <h1 className='md:text-[32px] text-[28px] text-[#c7c7c7]'>OKOGUN EUGENE</h1>
         </Link>
       </div>
       <nav>

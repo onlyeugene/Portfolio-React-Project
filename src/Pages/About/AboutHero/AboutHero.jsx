@@ -44,7 +44,7 @@ const AboutHero = () => {
             <div className='md:flex py-[2rem] w-full '>
                 <h1 className='md:text-[76px] text-[43px] md:w-[80rem]'>MY CAPABILITIES</h1>
                 <div className='md:flex md:flex-col gap-4 py-5'>
-                    <p>I am always looking to add more skills.Morbi egestas neque eu blandit fermentum. Nulla ac lobortis ligula. Pellentesque ac ex at purus faucibus tristique ut et dolor. </p>
+                    <p>I am always looking to add more skills, and to develop myself more. </p>
 
                     <div className='md:flex md:flex-col  md:gap-5 hidden '>
                         <div className='md:flex  md:gap-3'>

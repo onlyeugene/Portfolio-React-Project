@@ -11,7 +11,7 @@ const AboutExperience = () => {
                 <p className='text-[#c7c7c7] text-[18px]'>Nov 2023 - Present</p>
             </div>
             <div>
-                <p className='text-[18px] text-[#c7c7c7]'>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                <p className='text-[18px] text-[#c7c7c7]'>Teamed up with a group of professionals to make responsive websites.</p>
             </div>
             <div className='flex flex-col gap-2 py-[3rem]'>
                 <div className='md:flex justify-between items-center '>
@@ -20,7 +20,7 @@ const AboutExperience = () => {
                 </div>
                 <p className='text-[#d3e97a] text-[18px]'>Ross Tech</p>
                 <div>
-                    <p className='text-[18px] text-[#c7c7c7]'>Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                    <p className='text-[18px] text-[#c7c7c7]'>I was given tasks to carry out and also had a section of most projects to build.</p>
                 </div>
             </div>
         </div>
